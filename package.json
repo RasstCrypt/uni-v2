@@ -1,5 +1,5 @@
 {
-  "name": "rastv2sdk",
+  "name": "@uniswap/sdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications AMM.",
